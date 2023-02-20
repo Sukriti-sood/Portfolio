@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Sukriti Sood"
-  description: Text about my cool site
+  description: My Portfolio Website
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav1.png"
 
