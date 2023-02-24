@@ -119,7 +119,7 @@ params:
     intro: "Hi, my name is"
     title: "Sukriti."
     subtitle: "I build things for the web"
-    content: "A passionate Back-End Developer and Dev-Ops Enthusiast. I like exploring Tech and contibuting to Open Source ❤️ ."
+    content: "A passionate Web Developer and Dev-Ops Enthusiast. I like exploring Tech and contibuting to Open Source ❤️ ."
     image: /images/hero1.png
     roundImage: true # Make hero image circular | default false
     button:
